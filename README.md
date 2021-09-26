@@ -8,7 +8,7 @@
 
 ![teaser](./img/teaser.gif)
 
-**Left**: coarse-grained taxi-flow map; 
+**Left**: coarse-grained taxi flow map; 
 **Right**: inferred fine-grained taxi flow map by STCF. 
 
 This repo provides a reference implementation of **STCF** framework described in the following paper:
@@ -64,7 +64,7 @@ More options are described in the code.
 ## Cite
 
 If you find our paper & code are helpful for your research, 
-please consider citing us:heart_decoration:
+please consider citing us :heart_decoration:
 
 ```bibtex
 @article{xu2021stcf, 
@@ -72,6 +72,7 @@ please consider citing us:heart_decoration:
   title = {Spatial-Temporal Contrasting for Fine-Grained Urban Flow Super-Resolution}, 
   journal = {Under review}, 
   year = {2021}, 
+}
 ```
 
 ## Acknowledgment
