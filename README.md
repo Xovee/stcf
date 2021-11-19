@@ -13,8 +13,8 @@
 
 This repo provides a reference implementation of **STCF** framework described in the following paper:
 > **Spatial-Temporal Contrasting for Fine-Grained Urban Flow Super-Resolution**  
-> Authors  
-> Under Review
+> Xovee Xu, Ting Zhong, Fan Zhou, and Goce Trajcevski  
+> Under Review, 2021
 
 ## Data
 
@@ -23,7 +23,7 @@ We use [TaxiBJ](https://github.com/yoshall/UrbanFM) P1-P4 and [BikeNYC](https://
 You can download all five datasets at:
 
 - [Google Drive](https://drive.google.com/drive/folders/1_YgQfrNVrJzsyoTPvu1uhV40tnpuBYVK?usp=sharing) 
-- [Baidu Wangpan](https://pan.baidu.com/s/1r4G4xYtAdamcBaO3V-S01w)  (password: `ndep`)
+- [Baidu Drive](https://pan.baidu.com/s/1r4G4xYtAdamcBaO3V-S01w)  (password: `ndep`)
 
 ## Environment
 
@@ -68,7 +68,7 @@ please consider citing us :heart_decoration:
 
 ```bibtex
 @article{xu2021stcf, 
-  author = {Authors}, 
+  author = {Xovee Xu and Ting Zhong and Fan Zhou and Goce Trajcevski}, 
   title = {Spatial-Temporal Contrasting for Fine-Grained Urban Flow Super-Resolution}, 
   journal = {Under review}, 
   year = {2021}, 
@@ -77,7 +77,7 @@ please consider citing us :heart_decoration:
 
 ## Acknowledgment
 
-We are particularly grateful for the assistance given by Yuhao Liang. 
+We are particularly grateful for the assistance given by Yuhao Liang and Ce Li. 
 We would like to show our gratitude to the authors of UrbanFM, 
 FODE, UrbanODE, and others, for sharing their data and codes. 
 
