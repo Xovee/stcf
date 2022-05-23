@@ -1,4 +1,4 @@
-# STCF: Spatial-Temporal Contrasting for Fine-Grained Urban Flow Super-Resolution
+# STCF: Spatial-Temporal Contrasting for Fine-Grained Urban Flow Inference 
 
 ![](https://img.shields.io/badge/Under_Review-2021-blue)
 ![](https://img.shields.io/badge/python-3.8-green)
@@ -12,9 +12,9 @@
 **Right**: inferred fine-grained taxi flow map by STCF. 
 
 This repo provides a reference implementation of **STCF** framework described in the following paper:
-> **Spatial-Temporal Contrasting for Fine-Grained Urban Flow Super-Resolution**  
+> **Spatial-Temporal Contrasting for Fine-Grained Urban Flow Inference**  
 > Xovee Xu, Ting Zhong, Qiang Gao, Fan Zhou, and Goce Trajcevski  
-> Under Review, 2021
+> Under Review, 2022
 
 ## Data
 
@@ -67,11 +67,11 @@ If you find our paper & code are helpful for your research,
 please consider citing us :heart_decoration:
 
 ```bibtex
-@article{xu2021stcf, 
+@article{xu2022stcf, 
   author = {Xovee Xu and Ting Zhong and Qiang Gao and Fan Zhou and Goce Trajcevski}, 
-  title = {Spatial-Temporal Contrasting for Fine-Grained Urban Flow Super-Resolution}, 
+  title = {Spatial-Temporal Contrasting for Fine-Grained Urban Flow Inference}, 
   journal = {Under review}, 
-  year = {2021}, 
+  year = {2022}, 
 }
 ```
 
