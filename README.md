@@ -39,7 +39,7 @@ conda activate stcf
 conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
 
 # install tensorflow==2.9.1, scikit-learn>=1.0
-pip install -r requirements.txt  # tensorflow==2.9.1, scikit-learn==1.0
+pip install -r requirements.txt
 ```
 
 ## Usage
