@@ -96,7 +96,7 @@ def main(argv):
             patience = FLAGS.patience
 
             # save model
-            c_enc.save_weights('./saved_model/' + FLAGS.dataset + '/pt/' + FLAGS.note + '/pre-trained-model')
+            c_enc.save_weights('./saved_model/' + FLAGS.dataset + '/pt/' + FLAGS.model + '/pre-trained-model')
 
             print(
                 f'Epoch {epoch + 1}, '
