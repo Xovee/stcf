@@ -42,6 +42,8 @@ conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
 pip install -r requirements.txt
 ```
 
+If `tensorflow` cannot identify `cudatoolkit`, try to configure the system path as shown in the `4. GPU setup` section of this [guide](https://www.tensorflow.org/install/pip).
+
 ## Usage
 
 **Step 1**: Pre-train the spatial- and temporal-contrasting networks:
