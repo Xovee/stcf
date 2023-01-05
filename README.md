@@ -88,4 +88,4 @@ We express our gratitude to anonymous reviewers for giving constructive feedback
 ## Contact
 
 For any questions (as well as request for `.pdf` of the paper), 
-please open an issue or drop an email to: `xovee at ieee.org`
+please open an issue or drop an email to: `xovee at live.com`
