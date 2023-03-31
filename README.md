@@ -13,7 +13,7 @@
 
 This repo provides a reference implementation of **STCF** framework described in the following paper:
 > **Spatial-Temporal Contrasting for Fine-Grained Urban Flow Inference**  
-> Xovee Xu, Ting Zhong, Qiang Gao, Fan Zhou, and Goce Trajcevski  
+> Xovee Xu, Zhiyuan Wang, Qiang Gao, Ting Zhong, Fan Zhou, and Goce Trajcevski  
 > Under Review, 2022
 
 ## Data
@@ -71,7 +71,7 @@ please consider citing us :heart_decoration:
 
 ```bibtex
 @article{xu2022stcf, 
-  author = {Xovee Xu and Ting Zhong and Qiang Gao and Fan Zhou and Goce Trajcevski}, 
+  author = {Xovee Xu and Zhiyuan Wang and Qiang Gao and Ting Zhong and Fan Zhou and Goce Trajcevski}, 
   title = {Spatial-Temporal Contrasting for Fine-Grained Urban Flow Inference}, 
   journal = {Under review}, 
   year = {2022}, 
