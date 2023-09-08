@@ -84,7 +84,7 @@ We are particularly grateful for the assistance given by Yuhao Liang and Ce Li.
 We would like to show our gratitude to the authors of UrbanFM, 
 FODE, UrbanODE, and others, for sharing their data and codes. 
 We express our gratitude to reviewers and editors for giving constructive feedbacks.
-This work was initially submitted to a conference on January 2021. 
+This work was initially submitted to a conference in January, 2021. 
 
 ## Contact
 
