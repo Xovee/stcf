@@ -1,6 +1,6 @@
 # STCF: Spatial-Temporal Contrasting for Fine-Grained Urban Flow Inference 
 
-![](https://img.shields.io/badge/Under_Review-2023-blue)
+![](https://img.shields.io/badge/IEEE_TBD-2023-blue)
 ![](https://img.shields.io/badge/python-3.9-green)
 ![](https://img.shields.io/badge/tensorflow-2.9.1-green)
 ![](https://img.shields.io/badge/cudatoolkit-11.2-green)
@@ -14,7 +14,7 @@
 This repo provides a reference implementation of **STCF** framework described in the following paper:
 > **Spatial-Temporal Contrasting for Fine-Grained Urban Flow Inference**  
 > Xovee Xu, Zhiyuan Wang, Qiang Gao, Ting Zhong, Bei Hui, Fan Zhou, and Goce Trajcevski  
-> Under Review, 2023
+> IEEE Transactions on Big Data, 2023, 14 pages
 
 ## Data
 
@@ -71,9 +71,9 @@ please consider citing us :heart_decoration:
 
 ```bibtex
 @article{xu2023stcf, 
-  author = {Xovee Xu and Zhiyuan Wang and Qiang Gao and Ting Zhong and Fan Zhou and Goce Trajcevski}, 
+  author = {Xovee Xu and Zhiyuan Wang and Qiang Gao and Ting Zhong and Bei Hui and Fan Zhou and Goce Trajcevski}, 
   title = {Spatial-Temporal Contrasting for Fine-Grained Urban Flow Inference}, 
-  journal = {Under review}, 
+  journal = {IEEE Transactions on Big Data}, 
   year = {2023}, 
 }
 ```
@@ -83,9 +83,10 @@ please consider citing us :heart_decoration:
 We are particularly grateful for the assistance given by Yuhao Liang and Ce Li. 
 We would like to show our gratitude to the authors of UrbanFM, 
 FODE, UrbanODE, and others, for sharing their data and codes. 
-We express our gratitude to anonymous reviewers for giving constructive feedbacks.
+We express our gratitude to reviewers and editors for giving constructive feedbacks.
+This work was initially submitted to a conference on January 2021. 
 
 ## Contact
 
-For any questions (as well as request for `.pdf` of the paper), 
+For any questions, 
 please open an issue or drop an email to: `xovee.xu at gmail.com`
