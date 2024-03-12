@@ -14,7 +14,8 @@
 This repo provides a reference implementation of **STCF** framework described in the following paper:
 > **Spatial-Temporal Contrasting for Fine-Grained Urban Flow Inference**  
 > Xovee Xu, Zhiyuan Wang, Qiang Gao, Ting Zhong, Bei Hui, Fan Zhou, and Goce Trajcevski  
-> IEEE Transactions on Big Data, 2023, 14 pages
+> IEEE Transactions on Big Data, vol. 9, no. 6, pp. 1711--1125, Nov 2023.
+> https://doi.org/10.1109/TBDATA.2023.3316471
 
 ## Data
 
@@ -74,7 +75,11 @@ please consider citing us :heart_decoration:
   author = {Xovee Xu and Zhiyuan Wang and Qiang Gao and Ting Zhong and Bei Hui and Fan Zhou and Goce Trajcevski}, 
   title = {Spatial-Temporal Contrasting for Fine-Grained Urban Flow Inference}, 
   journal = {IEEE Transactions on Big Data}, 
-  year = {2023}, 
+  year = {2023},
+  volume = {9},
+  number = {6},
+  pages = {1711--1725},
+  doi = {10.1109/TBDATA.2023.3316471},
 }
 ```
 
